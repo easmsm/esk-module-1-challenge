@@ -52,8 +52,6 @@ p {
     font-size: 20px;
 }
 
-
-
 .header div ul li {
     display: inline-block;
     margin-left: 25px;
@@ -71,6 +69,7 @@ p {
     background-position: center;
 }
 
+/* Content - Page Contents Left */
 .content {
     width: 75%;
     display: inline-block;
@@ -95,7 +94,7 @@ p {
     font-size: 36px;
 }
 
-/* Page Contents Right */
+/* Benefits - Page Contents Right */
 .benefits {
     margin-right: 20px;
     padding: 20px;
